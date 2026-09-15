@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071608220677",
+    "project_id": "feedback-23188",
+    "storage_bucket": "feedback-23188.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071608220677:android:cfdbd3f89ae98cfe5d206c",
+        "android_client_info": {
+          "package_name": "com.example.feedback"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8VkohZ_tcDlUq5PT796Tz5uJ5gHkjPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
